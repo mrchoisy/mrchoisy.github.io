@@ -237,7 +237,7 @@ pagination:
     before: 2
     after: 2
 
-
+##
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
