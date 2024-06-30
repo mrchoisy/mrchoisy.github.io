@@ -217,4 +217,4 @@ pagination:
   permalink: '/page/:num/'
   title: ':title - page :num'
   limit: 0
-  sort_field: 'date
+  sort_field: 'date'
